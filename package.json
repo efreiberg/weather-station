@@ -1,0 +1,30 @@
+{
+  "name": "weather-station",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "async": "^2.4.1",
+    "class-inject": "^0.0.2",
+    "sensortag": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efreiberg/weather-station.git"
+  },
+  "keywords": [
+    "SensorTag",
+    "Weather"
+  ],
+  "author": "Eric Freiberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/efreiberg/weather-station/issues"
+  },
+  "homepage": "https://github.com/efreiberg/weather-station#readme"
+}
