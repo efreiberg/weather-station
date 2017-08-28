@@ -1,13 +1,6 @@
 {
-    "db": {
-        "host": "search-lisas-weather-station-2acexre43qvuwujm7tobtmkt4q.us-east-1.es.amazonaws.com",
-        "user": "AKIAJUAROVHXA33MTQRQ",
-        "ttl": "30d",
-        "index": "weather-data",
-        "type": "weather-data"
-    },
-    "aws": {
-        "region": "us-east-1"
+    "services": {
+        "data": "https://staging.lisasweatherstation.com/weather-data"
     },
     "logger": {
         "level": "DEBUG"

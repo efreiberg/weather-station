@@ -1,0 +1,8 @@
+{
+    "services": {
+        "data": "https://lisasweatherstation.com/weather-data"
+    },
+    "logger": {
+        "level": "ERROR"
+    }
+}
